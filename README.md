@@ -124,6 +124,10 @@ The inference scripts are located under the specific modality desired and under 
 
 A more thorough structure tree of every file is also in [CODE_INFO.md](./CODE_INFO.md).
 
+## Reproducibility
+
+For a step-by-step runbook, see [REPRODUCIBILITY_CHECKLIST.md](./REPRODUCIBILITY_CHECKLIST.md).
+
 ## Additional Resources
 - [JVP Flash Attention Implementation](https://github.com/amorehead/jvp_flash_attention), enabling flash attention with 2nd order derivatives (HVPs)
 - [EBT-Policy](https://energy-based-transformers.github.io/ebt-policy/), using EBTs for policies, enabling real-world robotic reasoning
